@@ -14,7 +14,7 @@ When you ask ChatGPT what the difference is between a Security Architect and a P
 
 Here you go:
 
-Technical
+**Technical**
 All about DNS, HTTP and OWASP top 10.
 Logical coding program which included 2 arrays.
 Interesting findings? SQL Injection? Do you know code review? How do you secure an application?
