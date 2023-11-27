@@ -110,13 +110,13 @@ Here you go:
 * Based on a technical problem of your choosing, how would you design it in AWS?
 * I was asked to describe a complex security project which I led. 1. What were the main objectives and KPIs? 2. Were there any difficulties and how did I manage to overcome them? 3. Was the project completed successfully, and how did I verify it?
 * Tell me how you would secure a multi-cloud environment at a large company.
-How would you connect two AWS accounts together for two separate companies?
-Describe Zero Trust.
-What is Threat Modeling and how that works in connected car scenario?
-They asked about well-architected framework.
-What are the most important considerations when developing secure infrastructure?
-What is your experience with identity management?
-Questions about Secure software development practices, System design- design software for multilevel automated car parking station, OWASP Top 10, Software Security Standards like FIPS, NIST, etc., Threat Modeling.
+* How would you connect two AWS accounts together for two separate companies?
+* Describe Zero Trust.
+* What is Threat Modeling and how that works in connected car scenario?
+* They asked about well-architected framework.
+* What are the most important considerations when developing secure infrastructure?
+* What is your experience with identity management?
+* Questions about Secure software development practices, System design- design software for multilevel automated car parking station, OWASP Top 10, Software Security Standards like FIPS, NIST, etc., Threat Modeling.
 * What is the STRIDE methodology?
 * Things to consider when allowing partner or acquired company to give access to database. Network Security related.
 * What was the time when you used MITRE Framework with customer's requirements and how it helped the organization?
