@@ -1,4 +1,4 @@
-Back in 2016, I wrote the Security_Engineer_Interview_Questions list and that thing took off. I've even been on job interviews where the hiring manager told me they used that list for finding interview questions. Neat.
+Back in 2016, I wrote the [Security_Engineer_Interview_Questions] (https://github.com/tadwhitaker/Security_Engineer_Interview_Questions) list and that thing took off. I've even been on job interviews where the hiring manager told me they used that list for finding interview questions. Neat.
 
 That list of questions is pretty broad and doesn't distinguish between the L1-5 levels (Associate Security Engineer, Security Engineer, Senior Security Engineer, Staff Security Engineer and Senior Staff Security Engineer) that I associate with a career ladder like the CircleCI Engineering Competency Matrix or others like it. Non-manager career advancement tends to start with the L4 Staff Security Engineer level, which is on par with an M1 Security Manager. At the upper end of this non-manager track are L6 Principal Security Engineer and Security Architects.
 
