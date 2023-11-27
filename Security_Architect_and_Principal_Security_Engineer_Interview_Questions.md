@@ -85,14 +85,14 @@ Here you go:
 * Give me a presentation over the phone as if you are presenting to 100 people.
 * What security resources do you use to ensure your knowledge and skills remain up to date?
 * Asked who the individuals were who captured Kevin Mitnick.
-How do you stay up to date with industry trends and modern research in one of the fastest evolving technical fields (cybersecurity) that exists?
-Tell me about a time that you did something creative.
-How fast can I become independent after taking up the job?
-What do you use to debug your code?
-Tell me about your most recent assignment.
-What's the difference between a Principal and Sr Engineer?
-Tell me about your experience as an application developer.
-Are you capable of writing a policy?
+* How do you stay up to date with industry trends and modern research in one of the fastest evolving technical fields (cybersecurity) that exists?
+* Tell me about a time that you did something creative.
+* How fast can I become independent after taking up the job?
+* What do you use to debug your code?
+* Tell me about your most recent assignment.
+* What's the difference between a Principal and Sr Engineer?
+* Tell me about your experience as an application developer.
+* Are you capable of writing a policy?
 * Describe how you would influence stakeholders.
 
 **Frameworks, Design and Threat Modeling**
