@@ -1,11 +1,10 @@
 Back in 2016, I wrote the 
 [Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions) 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 list and that thing took off. I've even been on job interviews where the hiring manager told me they used that list for finding interview questions. Neat.
 
-That list of questions is pretty broad and doesn't distinguish between the L1-5 levels (Associate Security Engineer, Security Engineer, Senior Security Engineer, Staff Security Engineer and Senior Staff Security Engineer) that I associate with a career ladder like the CircleCI Engineering Competency Matrix or others like it. Non-manager career advancement tends to start with the L4 Staff Security Engineer level, which is on par with an M1 Security Manager. At the upper end of this non-manager track are L6 Principal Security Engineer and Security Architects.
+That list of questions is pretty broad and doesn't distinguish between the L1-5 levels (Associate Security Engineer, Security Engineer, Senior Security Engineer, Staff Security Engineer and Senior Staff Security Engineer) that I associate with a career ladder like the [CircleCI Engineering Competency Matrix](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/) or others like it. Non-manager career advancement tends to start with the L4 Staff Security Engineer level, which is on par with an M1 Security Manager. At the upper end of this non-manager track are L6 Principal Security Engineer and Security Architects.
 
-So what does someone get asked if they're interviewing for one of those positions? I was curious, looked up the interview questions on Glassdoor.com and pasted them below.
+So what does someone get asked if they're interviewing for one of those positions? I was curious, looked up the interview questions on [Glassdoor.com](https://www.glassdoor.com/index.htm) and pasted them below.
 
 What's most interesting is the ~1:8 ratio of questions submitted: For every Principal Security Engineer question, there were 7.8 Security Architect questions. Does that mean there are 8x as many security architects as principal security engineers? I have no idea. Still, that's such a large difference that it's worth calling out. The questions are from every company imaginable too: Netflix to Morgan Stanley to 7Eleven to Airbus to Alcoa to Wiz. It's also worth noting that you're not going to see small startups among the companies. They simply won't have the need for these folks.
 
