@@ -66,7 +66,7 @@ Here you go:
 * HTTP headers and response codes.
 * What would you do if you found an infected host on your network and how would you stop its spread? (No details were given on what tools or equipment the customer may have)
 
-Behavioral and Influential
+**Behavioral and Influential**
 * Describe a time when you had a disagreement with a coworker.
 * Tell me about a time you had an unpopular opinion in a project.
 * Are you used to working on multiple projects at the same time without guidance to defined expectations?
@@ -95,7 +95,7 @@ Tell me about your experience as an application developer.
 Are you capable of writing a policy?
 * Describe how you would influence stakeholders.
 
-Frameworks, Design and Threat Modeling
+**Frameworks, Design and Threat Modeling**
 * What have you done around ISO27001?
 * What is IAM?
 * What are the main points to be considered to build a Security Reference Architecture?
